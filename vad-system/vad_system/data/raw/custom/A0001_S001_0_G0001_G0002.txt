@@ -1,0 +1,300 @@
+[1.591,6.769]	G0002	female	voice data collection for Beijing Magic Data
+[7.331,11.127]	G0001	female	voice data collection for Beijing Magic Data
+[11.908,18.948]	G0001	female	alors maman je sais que t'aime bien décorer ta maison et t'occuper de de la maison en générale et de ton balcon
+[19.448,26.182]	G0002	female	euh oui c'est c'est je crois que c'est la la la la chose que j'aime le plus
+[26.351,32.868]	G0002	female	c'est la décoration je peux passer toute une journée à à décorer euh
+[33.037,37.997]	G0002	female	tourner dans la maison changer les meubles j'aime bien ça
+[38.108,40.799]	G0002	female	et je m'ennuie pas quand je fais ça
+[41.128,46.161]	G0002	female	puis j'aime bien aussi aller dans les magasins de décoration euh
+[46.327,51.302]	G0002	female	aller à IKEA à ALINEA aller à l'Action euh
+[51.360,53.382]	G0002	female	tous les magasins de décoration quoi
+[53.507,57.114]	G0002	female	et je trouve toujours euh toujours des trucs
+[57.313,60.935]	G0002	female	qui qui m'intéressent c'est qui me font plasir
+[61.293,67.198]	G0002	female	bah du coup euh du coup la maison moi je change beaucoup beaucoup de place des des
+[67.411,70.582]	G0002	female	des objets parce qu'en fait je m'ennuie
+[70.815,74.655]	G0002	female	il faut que que je change les places des objets
+[75.071,80.831]	G0002	female	du coup bah la table du salon elle a fait le tour de la maison euh
+[82.173,89.300]	G0002	female	euh et puis j'aime beaucoup euh décorer les murs
+[89.472,92.730]	G0002	female	changer les les rideaux
+[92.943,94.980]	G0002	female	j'aime bien que les que
+[95.094,100.374]	G0002	female	que les que les couleurs soit assorties parfaites +
+[100.587,105.373]	G0002	female	j'aime bien les couleurs vifs aussi j'aime bien les couleurs claires aussi
+[105.950,108.045]	G0002	female	et puis et puis voilà quoi
+[108.138,115.845]	G0001	female	et euh d'accord et quel est quel est ton style préféré de maison est-ce que t'aimes bien le style un petit peu rustique ?
+[115.845,118.928]	G0001	female	le style moderne le style orientale
+[118.952,122.036]	G0001	female	le style asiatique les maisons très colorées
+[122.167,124.625]	G0001	female	les maisons plus uniques qu'est ce que tu aimes ?
+[124.637,128.041]	G0002	female	non non non oui j'aime bien tout ce qui est moderne
+[128.340,131.526]	G0002	female	j'ai horreur des des des des vieux styles
+[131.669,134.374]	G0002	female	le bois et tout ça j'aime pas
+[134.529,136.316]	G0001	female	tu n'aimes pas les styles rustiques alors ?
+[136.316,139.007]	G0002	female	non j'aime pas le style rustique
+[139.355,143.850]	G0002	female	j'aime bien le style moderne plus
+[144.031,150.271]	G0002	female	les murs blancs les les les les euh les meubles blancs
+[150.411,155.400]	G0002	female	les cuisines les meubles  euh  blancs ou gris ou euh
+[155.511,156.907]	G0002	female	au top
+[157.585,161.933]	G0002	female	et ouais j'aime pas j'aime pas tout ce qui est rustique j'ai horreur de ça
+[161.945,167.065]	G0001	female	donc si on pouvait changer les meubles du salon en bois tu les prendrais en blanc
+[167.263,171.976]	G0001	female	un style tu changerais pour un style moderne tu réadapterais le salon comme ça
+[171.976,176.770]	G0002	female	voilà voilà c'est ce que j'aurais fait parce que moi j'ai une table rustique
+[176.881,180.983]	G0002	female	mais ma table est elle coûte très très très très cher elle est
+[181.009,183.569]	G0002	female	ça fait longtemps qu'on que je l'ai
+[183.768,187.797]	G0002	female	mais mais si si je pouvais la changer
+[187.838,193.452]	G0002	female	je oui j'aurais j'aurais acheter une grande table blanche
+[193.621,198.000]	G0002	female	avec ses ses chaises blancs blancs et
+[199.187,204.423]	G0002	female	la petite table aussi j'aurais pris le le meuble de la cuisine blanc aussi
+[204.665,208.753]	G0002	female	euh j'aurais mis les rideaux euh allez on va dire
+[208.759,215.086]	G0002	female	j'aime la couleur que la couleur bordeaux aussi j'adore ça la couleur rouge j'aime beaucoup la couleur rouge +
+[215.125,216.128]	G0001	female	pour la décoration
+[216.215,223.262]	G0002	female	oui et d'ailleurs euh j'ai mon salon euh il est bordeaux mon salon il est en cuir
+[223.466,227.320]	G0002	female	en cuir bordeaux il est magnifique il est très grand
+[227.678,233.788]	G0002	female	et j'ai j'ai posé des des coussins rouges dessus et
+[233.896,237.707]	G0002	female	et des coussins blancs colorés rouge aussi euh
+[237.935,241.920]	G0002	female	voilà j'ai fait bah en fait
+[241.992,244.580]	G0001	female	tu achètes ce que tu aimes sur le coup en fait
+[245.115,249.885]	G0002	female	oui mais des fois je me trouve je me retrouve avec beaucoup beaucoup de choses +
+[250.113,256.281]	G0002	female	non des fois je me retrouve avec beaucoup de décorations parce que comme j'aime changer les décorations
+[256.415,259.950]	G0002	female	et bah j'achète souvent les décorations
+[260.023,265.172]	G0002	female	et du coup je me retrouve avec euh un stock énorme de décorations à la maison
+[265.178,265.760]	0	none	[LAUGHTER]
+[265.787,268.551]	G0002	female	et et je les ramène euh
+[268.563,273.217]	G0002	female	c'est vrai des fois je l'ai ramène au Maroc  quand j'ai plus envie de les garder ici euh
+[273.312,279.421]	G0002	female	dans ma maison de France et bah je les envoie au Maroc
+[279.678,282.354]	G0002	female	pour les mettre dans ma maison du Maroc
+[282.642,287.282]	G0002	female	et puis voilà comme ça je je jongle entre les deux et
+[287.745,290.421]	G0001	female	d'accord c'est très intéressant
+[290.518,295.827]	G0001	female	moi j'aime bien le style moderne aussi j'aime pas du tout le style rustique mais j'aime bien les maisons très colorées
+[295.938,301.494]	G0001	female	donc je pense que quand j'aurais une maison plus tard j'aurais une maison très colorée avec beaucoup de styles différents
+[301.734,307.203]	G0001	female	je ramènerais des choses de mes voyages les mettrais dans la maison j'aimerais bien avoir une maison très colorée
+[307.270,313.495]	G0001	female	mais j'aime pas le style rustique non plus j'aimerais pas avoir une vieille maison avec du bois je déteste je déteste le bois +
+[313.564,315.862]	G0002	female	c'est pas démodé mais je trouve que
+[315.887,319.828]	G0002	female	c'est plus les personnes âgées maintenant qui ont du bois chez eux +
+[319.887,322.839]	G0002	female	maintenant les jeunes ils mettrent pas le bois
+[322.852,327.717]	G0001	female	mais il y a des gens qui savent pas décorer qui achètent juste par exemple des des chambres pour leur enfants en bois
+[327.717,332.776]	G0001	female	des vieilles chambres en bois parce que ça coûte moins cher et puis voilà ils mettent comme ça c'est assorti
+[332.776,336.223]	G0002	female	non le le le le style rustique il est magnifique aussi
+[336.293,342.097]	G0002	female	mais le style le style rustique il faut savoir décorer et c'est il très difficile à décorer
+[342.366,344.810]	G0002	female	c'est pas comme les euh
+[344.839,348.213]	G0002	female	et il est il est il rend aussi la maison sombre
+[348.281,352.863]	G0002	female	oui il faut toujours l'égayer faire des couleurs claires pour pouvoir euh
+[352.915,354.748]	G0002	female	respirer dans une maison en bois
+[354.834,359.851]	G0001	female	c'est vrai qu'on a une tante ici qui a une maison rustique et sa maison a toujours été sombre
+[359.851,364.084]	G0001	female	même son salon avant quand elle vivait dans la région parisienne son salon il était sombre maintenant
+[364.084,368.501]	G0001	female	je sais pas dans sa nouvelle maison comment ça c'est mais c'est très sombre, tout était en bois
+[368.598,369.398]	G0002	female	ouais ouais
+[369.439,374.167]	G0001	female	c'est pas jolie la cuisine aussi elle était en bois le salon il était en bois  je crois la chambre elle était en bois aussi non
+[374.408,376.546]	G0002	female	c'était pas
+[376.789,380.949]	G0001	female	après chacun a son style mais moi je sais je l'aime pas trop moi j'aime bien les couleurs le plus improtant c'est les couleurs
+[381.005,385.049]	G0002	female	oui voilà mais après tous tous les styles sont beaux hein
+[385.220,388.012]	G0002	female	après ça depend de toi ce que tu aimes toi
+[388.065,394.494]	G0002	female	mais mais oui je respecte tous les tous les tous les styles hein chacun il fait ce qu'il veut
+[394.550,398.390]	G0001	female	trop hein trop simple vide qui sortent de magazine
+[398.440,400.985]	G0001	female	avec tout est clean tout est blanc et noir moi j'aime pas du tout
+[401.026,403.586]	G0001	female	je me sentirais moi je me sentirais pas chez moi +
+[403.642,405.729]	G0002	female	mais non moi j'aime bien ces maisons comme +
+[405.804,406.658]	0	none	[*]
+[406.658,408.132]	G0002	female	blanc+
+[408.161,410.074]	G0001	female	moi je me sentirais pas chez moi
+[410.225,413.353]	G0001	female	moi j'aimerais bien que ce soit à mon image
+[413.394,416.201]	G0001	female	personnalisée voilà +
+[416.546,423.013]	G0002	female	mais non mais bah non moi je suis le contraire de toi moi j'aime bien les grandes maisons blanc où il y a beaucoup d'espace
+[423.013,428.744]	G0002	female	il y a beaucoup de meubles j'adore j'adore parce que c'est spacieux tu tu
+[428.827,432.536]	G0002	female	tu respires t'es pas étouffée pour par les objets en fait
+[432.717,438.681]	G0001	female	non moi moi c'est pas que j'aime bien les maisons remplies mais je veux dire j'aime pas les maisons avec des décorations
+[438.681,440.672]	G0001	female	standard que tu vois dans les magazines
+[440.797,443.965]	G0001	female	mais j'aimerais pas une maisons qui soit trop euh chargée non plus
+[443.965,447.877]	G0001	female	faut qu'il ait de l'espace mais il faut qu'il y ait quand même de la couleur
+[448.018,452.032]	G0001	female	par exemple il y a des gens qui mettent qui mettent des murs de leurs maisons
+[452.032,455.838]	G0001	female	qui sont d'une couleur spéciale par exemple je sais pas euh
+[455.895,459.269]	G0001	female	rose saumons bleu marine +
+[459.293,465.500]	G0001	female	voilà ou bleu marine ou vert pomme tu vois une petite touche de couleur comme ça dans une maison toute blanche
+[465.500,472.117]	G0001	female	moi je je touve ça très beau avec un beau grand tableau comme coloré comme qu'on avait derniere fois dans un magasin comment il s'appelle là
+[472.212,476.764]	G0001	female	salon center je crois qu'il s'appelait oui tu te rappelles voilà tout était blanc  +
+[476.805,479.216]	G0001	female	et il avait un beau mur coloré
+[479.216,484.641]	G0001	female	de très belles couleurs avec un magnifique tableau et des petits pots de fleurs ça c'était parfait
+[484.706,490.491]	G0001	female	voilà mais c'était coloré quand même c'était simple c'était propre mais avec une petite touche de couleur
+[490.491,493.371]	G0001	female	voilà non moi j'aime bien les maisons blaches aussi et les murs blanc moi j'aime bien
+[493.386,496.426]	G0002	female	normalement tu peux les tu peux les habiller comme tu veux en fait
+[496.726,501.206]	G0002	female	pas comme euh c'est vrai que les les les maisons où il y a beaucoup de couleurs c'est c'est
+[501.971,504.036]	G0002	female	c'est très dur à les décorer hein
+[504.223,506.374]	G0002	female	le blanc c'est facile en fait, le blanc+
+[506.374,507.872]	G0001	female	et ça rétrécit les maisons aussi
+[507.957,509.077]	G0002	female	ça rétrécit l'espace
+[509.077,512.491]	G0001	female	ça rétrécit l'espace ouais moi ce que j'aime le moins c'est le papier peint
+[512.548,514.292]	G0001	female	je déteste le papier peint +
+[514.292,518.126]	G0002	female	maintenant il y a plus de personne ne met de papier peint c'est très démodé +
+[518.179,521.001]	G0001	female	le bois et le papier peint ces deux trucs que je déteste le plus
+[521.049,524.570]	G0002	female	non c'est fini ça il y a plus personne qui met ça
+[524.753,527.226]	G0002	female	le papier peint avant oui
+[527.308,532.893]	G0002	female	parce que moi quand j'étais petite bah toute la maison de mes parents était il avait des papiers peints hein
+[532.964,536.201]	G0002	female	ah oui on avait des papiers peints partout partout partout
+[536.201,537.558]	G0001	female	et depuis quand le Maroc met du papier peint ?
+[537.573,538.780]	G0002	female	mais depuis toujours
+[538.936,541.028]	G0001	female	tu sais pas s'ils mettaient du carlage ? +
+[541.113,546.058]	G0002	female	mais après après ils'ont enlevé ça mais mes parents ils avaient ça ils avaient le papier peint hein
+[546.111,550.576]	G0001	female	ah bon j'ai jamais vu un maison marocaine avec du papier peint de ma vie
+[550.673,555.342]	G0002	female	la maison du Maroc elle était, mon père il avait du papier peint
+[555.342,556.940]	G0001	female	parce que tes parents étaient modernes peut-être
+[557.531,562.011]	G0002	female	non parce que j'ai j'ai j'ai une soeur qui
+[562.108,565.758]	G0002	female	qui qui emmenait le papier de la France au Maroc papier peint
+[565.758,573.053]	G0001	female	ah c'est pour ça ah bah oui et il se sont adaptés au style français mais au Maroc il avait mais y avait pas beaucoup de gens qui mettaient du papier peint à l'époque
+[573.249,576.085]	G0001	female	c'est parce que t'as parce que leur fille leur a ramené du papier peint
+[576.318,582.093]	G0002	female	non non non il y avait de papier peint mais pas beaucoup parce que nous c'est la la parce que en fait
+[582.361,589.939]	G0002	female	euh les gens ils aiment bien à laver les murs avec avec l'eau avec l'eau parce que euh il y a le parce que
+[589.939,594.906]	G0002	female	la terrasse la terrasse la terrasse sur les murs il y a toujours le carlage+
+[595.395,601.402]	G0002	female	et les gens bah ils lavent parce que comme là-bas c'est très salisant il y a beaucoup d'enfants il y a beaucoup de
+[601.642,609.293]	G0002	female	il y a beaucoup de demandes il y a beaucoup d'invités il y a les voisins qui viennent et tout ça c'est c'est très animé il y a la poussière aussi +
+[609.461,614.784]	G0002	female	bah et lavent parce que les marocains lavent beaucoup beaucoup beaucoup+
+[615.041,617.935]	G0002	female	ils lavent ils lavent les maisons aves les tuyaus
+[617.935,620.754]	G0001	female	c'est bien hein c'est gens propres moi j'aime bien
+[620.822,624.211]	G0002	female	bah ils ont raison de toute façon c'est une mauvaise idée depuis le départ
+[624.311,625.488]	G0001	female	c'est très moche
+[625.954,628.151]	G0002	female	oui
+[628.151,630.013]	G0001	female	et sinon eh
+[630.354,637.496]	G0002	female	t'aimes bien t'occuper de ta maison en général niveau propreté tout ça t'es pas du genre à laisser traîner les choses n'est ce pas ?
+[637.633,639.247]	G0001	female	t'as toujours été comme ça
+[639.422,644.367]	G0002	female	bah oui parce que depuis que j'étais petite moi comme j'aime les décorations
+[644.534,649.740]	G0002	female	bah les décorations ils vont avec avec la propreté en fait
+[649.740,654.495]	G0002	female	bah du coup moi pour plus je mets des décorations soit bien vu et tout ça il faut que la maison soit propre
+[654.894,660.261]	G0002	female	du coup moi depuis j'étais petite je savais entretenir une maison j'aidais beaucoup ma mère
+[660.388,662.220]	G0002	female	malgré que j'étais étudiante
+[662.349,667.847]	G0002	female	euh je faisais beaucoup les décorations en fait c'était moi qui qui euh décorais la maison
+[668.028,672.828]	G0002	female	j'aidais je je je faisais je oui je oui c'est vrai que
+[672.954,677.419]	G0002	female	et du coup bah quand quand j'ai eu chez moi
+[678.359,685.632]	G0002	female	bah j'avais j'avais pas de problèmes pour entretenir la maison la propreté et
+[685.946,689.292]	G0002	female	de toute façon moi je suis jamais débordée par le ménage
+[689.304,693.478]	G0002	female	parce que je fais tout petit à petit je laisse pas+
+[693.546,698.898]	G0002	female	je laisse pas la saleté s'accumuler après je vais passer une deux journées ou deux jours à laver
+[699.068,703.664]	G0002	female	non moi fais tout le temps tout le temps tous les jours je fais un petit peu en fait
+[703.845,709.489]	G0002	female	du coup ma maison bah ma maison moi je trouve je sais pas mais moi je trouve ma maison est propre
+[709.585,713.280]	G0002	female	il y a pas beaucoup de de bazar +
+[713.434,719.791]	G0002	female	et d'ailleurs bah ces dernières temps j'ai décoré la chambre euh ta chambre
+[720.190,724.161]	G0002	female	on a refait la chambre à ma fille +
+[724.204,727.215]	G0002	female	chambre à Samy, mon mon fils aussi
+[727.585,730.363]	G0002	female	et ça m'a occupé maintenant bah
+[730.405,733.066]	G0001	female	on a refait le bric-à-brac on a refait le balcon
+[733.238,733.790]	G0002	female	ouais ouais
+[733.818,735.825]	G0001	female	on a bien on a bien rangé la maison
+[735.854,737.949]	G0002	female	oui on a bien c'est vrai qu'on a
+[738.047,741.698]	G0002	female	on a bien rangé la maison oui il y avait plein de choses à faire hein
+[741.885,745.114]	G0001	female	bah ça c'est quelque chose que les jeunes font moins en France
+[745.329,750.551]	G0001	female	parce que maintenant moi mes amis c'est très rare que je les voir dire
+[751.418,757.804]	G0001	female	que j'entends dire qu'elles font le ménage régulièrement des fois que c'est un peu le bazar mais elles s'en fichent en fait elles disent toujours
+[758.030,761.215]	G0001	female	de toute façon elles chercheront un mari qui fera le ménage à leur place
+[761.268,763.653]	G0002	female	bah oui non non non
+[763.711,767.406]	G0002	female	parce que ils ont pas le temps t'inquiète quand elles seront chez elles elles font le menage
+[767.415,773.125]	G0002	female	alors qu'avant il y a dix ans vingt ans de ça c'était les hommes qui disaient ça à charger une femme qui fait le ménage
+[773.125,776.311]	G0001	female	là maintenant c'est les femmes qui disent chercher un homme qui fait le ménage aussi
+[776.311,777.269]	G0002	female	et qui fait la cuisine
+[777.295,780.452]	G0002	female	ah bah non non non non il faut pas dire ça parce que maintenant
+[780.606,784.854]	G0002	female	l'homme il travaille la femme elle travaille aussi alors je vois pas pourquoi
+[785.025,786.334]	G0002	female	ça c'est un autre sujet
+[786.481,790.582]	G0001	female	bah j'ai regardé une émission là tout à l'heure c'était euh des Anglais
+[790.582,795.900]	G0001	female	c'était on a changé nos euh mamans version britanique et euh y avait un papa euh
+[796.197,802.161]	G0001	female	qui disait euh que toute façon les femmes elles étaient faites pour rester à la maison s'occuper des enfants que c'était biologique
+[802.161,803.627]	G0002	female	non n'importe quoi
+[803.672,804.894]	G0001	female	très macho n'est ce pas ?
+[804.938,807.454]	G0002	female	non mais c'est fini cette époque là oh
+[807.532,813.830]	G0002	female	avant les hommes ils pouvaient euh ils se peut pouvaient se permettre de parler comme ça parce que là-bas ils utilisent la femme
+[813.927,818.465]	G0002	female	elles travaillent pas dans les années mille huit cent je sais pas ou mille sept cent la femme elle traviaillait pas
+[818.503,823.536]	G0002	female	il avait pas de il avait pas de sous il avait pas de rente
+[823.763,829.419]	G0001	female	elle avait pas les moyens de se débrouiller toute seule elle devait compter sur son mari alors que maintenant elle est independante +
+[829.472,834.635]	G0002	female	c'est vrai parce qu'elle passait son temps à la maison c'est normal son son travail c'était à la maison
+[834.674,839.372]	G0002	female	mais maintemant elle travaille la femme elle travaille à l'exterieur je ne vois pas pourquoi la femme toute seule elle doit traviller
+[839.410,840.646]	G0002	female	elle doit
+[840.761,844.790]	G0002	female	euh doit faire le ménage euh doit faire l'entretien de la maison
+[844.790,851.088]	G0001	female	et travailler et s'occuper des enfants alors que le l'homme il fait juste que travailler c'est pas juste elle a deux tâches en plus que l'homme
+[851.088,853.546]	G0001	female	elle a trois tâches et l'homme et l'homme juste une seule
+[853.556,857.018]	G0002	female	non non non non il faut pas dire ça il faut pas faire ça parce que
+[857.611,861.931]	G0002	female	c'est non non on est on est en vingt et unième siècle +
+[862.159,867.672]	G0002	female	tout a évolué le regard sur la femme il a il a évolué euh ces occupations
+[867.768,871.695]	G0002	female	la femme maintenant elle fait ses études jusqu'à vingt quatre vingt cinq
+[872.129,874.951]	G0002	female	euh c'est fini ça hein
+[875.527,879.410]	G0001	female	c'est vrai je suis d'accord euh c'est une époque révolue
+[880.000,885.033]	G0002	female	oui oui oui  c'est c'est c'est c'est mais moi je trouve c'est une belle époque quand même
+[885.086,890.002]	G0001	female	bah pour le respect de la femme oui il y a plein il y une nana la dernière fois qu'il me diasait que
+[890.159,891.890]	G0001	female	elle aurait euh
+[891.978,895.177]	G0001	female	elle aurait voulu vivre au dix-huitième siècle
+[895.184,900.115]	G0001	female	parce que euh parce que c'était plus intéressant que il y avait pas les smartphones et tout ça
+[900.185,905.037]	G0001	female	mais moi je lui ai dit bah oui va au vingt au dix-huitième siècle tu verras comment tu serais traitée comme femme
+[905.037,910.143]	G0001	female	tu te rends pas compte à quel point tu as de la chance du vingt et unième siècle parce que les femmes sont beaucoup mieux traitées qu'avant même si on a plein de problèmes
+[910.312,914.574]	G0001	female	d'écologie d'économie et tout ça au moins les femmes sont mieux traitées
+[914.712,918.523]	G0001	female	elles ne restent pas à la maison à s'occuper leurs maris à subir
+[918.566,922.595]	G0001	female	tout parce que elles savent très bien que de toute façon si elles veulent le divorce elles se retrouveront à la rue
+[922.779,927.433]	G0002	female	oui oui heureusement la femme maintenant là elle a ses elle a des droits il a
+[927.547,930.805]	G0002	female	elle a son argent elle a sa paye
+[930.916,934.989]	G0002	female	euh il se met avec un garçon si c'est
+[935.246,938.606]	G0002	female	si ça va ça va si s'entend mal pas bien bah
+[938.824,942.213]	G0002	female	elle peut partir et assurer euh
+[942.336,946.830]	G0002	female	son indépendance c'est tout hein elle a plus besoin de l'homme hein
+[946.929,948.267]	G0001	female	c'est vrai tout à fait
+[948.332,949.074]	0	none	[*]
+[949.149,955.680]	G0002	female	bah voila quoi mais en revenant au ménage entretien de la maison la décoration
+[955.980,961.580]	G0002	female	oui ça reste euh ça reste un un sujet euh
+[961.938,966.317]	G0002	female	très très très très qui m'occupe qui m'occupe beaucoup et
+[966.716,973.827]	G0002	female	et moi des fois je vais sur Youtube je regarde les décorations je regarde les femmes comment elles décorent leurs maisons et
+[974.243,978.067]	G0002	female	et j'adore c'est mon passe-temps
+[978.183,980.175]	G0001	female	hum c'est ta passion
+[980.633,983.745]	G0001	female	chacun à sa passion et euh
+[984.033,989.371]	G0001	female	et donc du coup le jardin aussi on n'a pas parlé du du jardin du balcon
+[989.371,995.811]	G0001	female	ça aussi c'est quelque chose qui t'occupe beaucoup moi j'aime bien les plantes mais je sais pas si j'aurais ta patience pour m'occuper de mes plantes plus tard chez moi
+[995.878,998.381]	G0001	female	il me faudra un mari qui sache s'occuper des plantes
+[998.381,1002.625]	G0002	female	bah oui bah oui parce que moi j'ai un petit balcon de rien du tout et j'ai des petites fleurs
+[1002.825,1005.534]	G0002	female	mais toi si t'auras est-ce que si t'as une maison
+[1005.579,1006.219]	0	none	[*]
+[1006.261,1009.127]	G0002	female	si si si t'arrives à avoir une maison
+[1009.191,1010.616]	G0001	female	il faut tondre la pelouse aussi
+[1010.875,1015.239]	G0002	female	ah oui le jardin il faut il faut l'entretien c'est pas
+[1015.629,1018.014]	G0002	female	c'est c'est beaucoup beaucoup de travail le jardin hein
+[1018.474,1023.842]	G0002	female	et moi mon petit balcon euh ça va et bah j'avais j'ai quelques plantes
+[1024.185,1029.335]	G0002	female	mais là d'ailleurs avec la parce qu'avec la canicule là ils sont en train de mourir ça me fait la peine quoi
+[1029.335,1030.839]	G0001	female	non mais c'est très dur de
+[1030.839,1033.557]	G0002	female	mes géranium ils sont en train de mourir là et
+[1033.915,1038.237]	G0001	female	c'est très dur de gérer des plantes surtout que c'est vraiment variable en fonction de la saison quoi
+[1038.237,1042.179]	G0002	female	oui oui oui surtout la canicule là on arrive à trente neuf degrés euh
+[1042.258,1047.582]	G0002	female	et puis des fois il y trop de pluie aussi des fois il y a des tempêtes de pluie qui viennent et qui ravagent les plantes
+[1047.606,1048.521]	G0002	female	qui ravagent les plantes
+[1048.564,1051.604]	G0002	female	tout ton travail de l'année, oui+
+[1051.618,1057.651]	G0001	female	tout ton travail de l'année tous tes petits soins peuvent être ruinés en l'espace de quelques jours quoi
+[1057.675,1060.075]	G0002	female	à moins d'avoir une serre+
+[1060.160,1064.261]	G0001	female	si t'as une serre et que tu peux mettre des bâches les protéger contre la canicule contre la tempête
+[1064.261,1070.685]	G0002	female	oui mais si t'as un jardin c'est pour que tes enfants puissent là de jouer là-dessus si tu mets des des serres ça va pas le faire hein
+[1070.924,1076.263]	G0002	female	non euh moi je connais beaucoup beaucoup de gens qui ont des petits
+[1077.086,1082.003]	G0002	female	euh je je connais beaucoup de gens qui ont des petits mais leur jardin il est vide
+[1082.245,1084.803]	G0002	female	il le laissent pour les enfants pour qu'ils puissent jouer
+[1084.803,1088.963]	G0002	female	pour ça ils ont pas d'entretien, ils s'en veulent pas+
+[1089.031,1090.631]	G0001	female	oui bah c'est vrai hein
+[1090.731,1092.651]	G0001	female	c'est ce que l'une de mes tantes fait ouais
+[1092.835,1098.086]	G0001	female	bah ouais avoir un jardin avec des enfants bas âge moi je comprends pas trop euh
+[1098.604,1105.452]	G0001	female	enfin pourquoi est-ce qu'on pourquoi est-ce que les gens mettent des plantes euh plein plein de fleurs alors que ça prévient que les enfants ils vont vouloir jouer
+[1105.452,1112.617]	G0001	female	et ils vont toujours avoir peur en regardant leurs enfants jouer et se dire oh là là mes plantes  ils vont ils vont ruiner mes plantes faites attention
+[1112.641,1117.034]	G0001	female	normalement un enfant il n'a pas à faire attention à aux plantes qui sont autour quand il joue quoi
+[1117.160,1119.850]	G0002	female	bah oui parce que un enfant il a besoin d'espace
+[1119.863,1121.434]	G0001	female	il a besoin d'espace l'enfant
+[1121.532,1126.769]	G0002	female	si c'est pour avoir un jardin et le remplir de plantes et ne pas leur laisser d'espace  pour les enfants moi je vois
+[1126.982,1129.323]	G0002	female	ça sert à quoi d'avoir un jardin alors ?
+[1129.351,1134.165]	G0001	female	surtout que les enfants grandissent vite ils peuvent attendre que l'enfant ait un peu grandi et mettre leurs plantes plus tard
+[1134.180,1137.796]	G0001	female	c'est pas urgent quand l'enfant commence à avoir dix onze ans et qu'ils mettent leurs plantes
+[1137.966,1139.507]	G0002	female	bah oui c'est vrai hein
+[1139.564,1142.880]	G0001	female	c'est pas besoin de les mettre toute suite tu auras toute ta vie pour mettre des plantes
+[1142.880,1145.744]	G0002	female	quand ils sont petits il vaut mieux il vaut mieux ne pas avoir
+[1145.858,1149.407]	G0002	female	aller on met quelques quelques fleurs quelques quelques arbres
+[1149.693,1153.475]	G0002	female	mais mais pas partout partout partout et ne pas laisser d'espace pour les enfants
+[1153.717,1159.782]	G0001	female	bah j'ai ma cousine qui viens d'acheter une maison et ça et elle voulait mettre des fleurs parce qu'elle aime beaucoup les fleurs
+[1159.818,1166.261]	G0001	female	et sa mère lui a dit euh non non tu ne mets pas de fleurs mets pas les plantes parce que le petit n'aura pas l'espace pour jouer
+[1166.387,1169.499]	G0001	female	et moi je me suis dit c'est vrai la grand-mère elle a raison
+[1169.570,1175.082]	G0001	female	parce que si elle commence à mettre des fleurs et des plantes surtout que le petit a beaucoup d'énergie il pourra pas jouer plus tard
+[1175.089,1177.896]	G0001	female	donc du coup elle a acheté des poules à la place des plantes
+[1177.982,1180.396]	G0001	female	comme ça le petit joue avec les poules
+[1180.478,1181.627]	G0002	female	ah c'est mignon
+[1181.654,1186.570]	G0001	female	bah oui parce qu'il a pas de il a pas de petits frères et petites soeurs encore donc du coup il joue avec les poules
+[1186.570,1187.981]	G0002	female	c'est mignon
+[1188.208,1191.874]	G0001	female	ça c'est une bonne idée c'est vrai que maintenant c'est la mode en France de
+[1192.087,1197.599]	G0001	female	d'acheter des poules pour avoir des pour avoir des oeufs bio déjà en fait et depuis les poules
+[1197.725,1201.317]	G0001	female	elle m'avait dit aussi que c'était bon pour le jardin c'était enfin
+[1201.320,1205.669]	0	none	+
+[1205.751,1208.384]	0	none	+
+[1208.471,1212.006]	G0001	female	tous les matins tu as des oeufs frais et tu sais que tes poules elles sont bien traitées
+[1212.041,1214.601]	G0002	female	punaise, c'est génial ça
+[1214.645,1216.521]	G0001	female	c'est trop bien bah d'ailleurs
+[1216.972,1219.285]	G0001	female	voilà on a fini
